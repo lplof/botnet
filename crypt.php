@@ -11,7 +11,7 @@ require_once 'includes/func.php';
 <div id="page-wrapper">
     <div class="row">
         <div class="col-lg-6">
-            <h1 class="page-header">Сrypt apk</h1>
+            <h1 class="page-header">DarkZino</h1>
         </div>
         <div class="col-lg-6" style="">
             <div class="page-action-links text-right"></div>
@@ -21,7 +21,7 @@ require_once 'includes/func.php';
     <!-- Guided tour -->
 
     <h3>Contacts</h3>
-<tr><td>Contacts jabber: </td><td>napas@jabb.im</td></tr>
+<tr><td>Contacts jabber: </td><td>Admin@admin.com</td></tr>
 
     
     
